@@ -12,6 +12,9 @@ double numberY() {
 
 double numberZ() {
    //разрабатывается Developer3 - ветка branch_fun_3
+    double z;
+    cin >> z;
+    return z;
 }
 
 double DrobPart(double summ) {

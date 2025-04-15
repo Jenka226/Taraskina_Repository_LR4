@@ -4,6 +4,9 @@ using namespace std;
 
 double numberX() {
     //разрабатывается Developer1 - ветка branch_fun_1
+    double x;
+    cin >> x;
+    return x;
 }
 
 double numberY() {

@@ -20,6 +20,7 @@ double DrobPart(double summ) {
 
 int Okruglenie(double summ) {
     //разрабатывается Developer5 - ветка branch_fun_5
+    return static_cast<int>(round(summ));
 }
 
 int main() {

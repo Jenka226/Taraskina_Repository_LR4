@@ -8,6 +8,9 @@ double numberX() {
 
 double numberY() {
     //разрабатывается Developer2 - ветка branch_fun_2
+    double y;
+    cin >> y;
+    return y;
 }
 
 double numberZ() {

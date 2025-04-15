@@ -16,6 +16,7 @@ double numberZ() {
 
 double DrobPart(double summ) {
     //разрабатывается Developer4 - ветка branch_fun_4
+    return summ - static_cast<int>(summ);
 }
 
 int Okruglenie(double summ) {
